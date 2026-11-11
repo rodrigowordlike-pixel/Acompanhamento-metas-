@@ -1,0 +1,6 @@
+{
+  "name": "MetaVendas - Gestão e Prévia de Metas",
+  "description": "Sistema de gestão e acompanhamento vibrante de metas semanais para vendedores com modo prévia em porcentagem e frases motivacionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
